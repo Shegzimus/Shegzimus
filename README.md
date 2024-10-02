@@ -2,7 +2,7 @@
 
 ## Welcome to My Profile!
 
-Hi there! I'm Oluwasegun, a data pipeline engineer passionate about leveraging cloud infrastructure to build robust data solutions.
+Hi there! I'm Oluwasegun but you can just call me Victor. I'm a data pipeline engineer passionate about leveraging cloud infrastructure to build robust data solutions.
 
 ## Skills
 
